@@ -4,9 +4,9 @@ const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_APIKEY ,
   authDomain: "onecart--login.firebaseapp.com",
   projectId: "onecart--login",
-  storageBucket: "loginonecart.firebasestorage.app",
-  messagingSenderId: "242165258894",
-  appId: "1:242165258894:web:0155a2ced93e20073247df"
+  storageBucket: "onecart--login.firebasestorage.app",
+  messagingSenderId: "172783849435",
+  appId: "1:172783849435:web:41989992760f511d5fa1fe"
 };
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app)
