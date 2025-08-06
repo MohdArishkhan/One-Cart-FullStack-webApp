@@ -84,4 +84,4 @@ window.speechSynthesis.speak(utterence)
   )
 }
 
-export default Ai
+export default Ai;

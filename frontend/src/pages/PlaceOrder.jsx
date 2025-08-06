@@ -158,7 +158,7 @@ function PlaceOrder() {
          
         </div>
         <div>
-          <button type='submit' className='text-[18px] active:bg-slate-500 cursor-pointer bg-[#3bcee848] py-[10px] px-[50px] rounded-2xl text-white flex items-center justify-center gap-[20px] absolute lg:right-[20%] bottom-[10%] right-[35%] border-[1px] border-[#80808049] ml-[30px] mt-[20px]' >{loading? <Loading/> : "PLACE ORDER"}</button>
+          <button type='submit'className='text-[18px] active:bg-slate-500 cursor-pointer bg-[#3bcee8] hover:bg-[#30b6d8] transition-all duration-300 py-[10px] px-[50px] rounded-2xl text-white flex items-center justify-center gap-[20px] border border-[#80808049] mt-[40px] ml-[20px] shadow-md hover:shadow-lg' >{loading? <Loading/> : "PLACE ORDER"}</button>
          </div> 
 
 
