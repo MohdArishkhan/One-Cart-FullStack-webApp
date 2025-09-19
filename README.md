@@ -1,5 +1,9 @@
-
 # OneCart
+Open backend and frontend to run the project
+- Access deployed user site: [One-Cart (frontend)](https://one-cart-3.onrender.com/)
+- Access deployed backend API: [One-Cart (backend)](https://one-cart-1cvg.onrender.com/)
+  Admin Dashboard :
+- Access deployed admin dashboard: [One-Cart (admin)](https://one-cart-5.onrender.com/)
 
 OneCart is a full-stack e-commerce platform with separate admin and user frontends, and a Node.js backend. It allows users to browse products, add items to cart, place orders, and admins to manage products and orders.
 
