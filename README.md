@@ -12,7 +12,7 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
 
 - `admin/` — Admin dashboard (React + Vite)
 - `frontend/` — User-facing storefront (React + Vite)
-- `backend/` — Node.js/Express REST API server
+- `backend/` — Node.js/Express REST API server.
 
 ## Features
 
