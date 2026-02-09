@@ -1,5 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # OneCart
+=======
+# OneCart
+Open backend and frontend to run the project
+- Frontend Link: [One-Cart (frontend)](https://one-cart-3.onrender.com/)
+- backend Link: [One-Cart (backend)](https://one-cart-1cvg.onrender.com/)
+
+Admin Dashboard :
+- Access deployed admin dashboard: [One-Cart (admin)](https://one-cart-5.onrender.com/)
+>>>>>>> 4aeb5b97cbde84cec8de664943aadefae310a4f4
 
 OneCart is a full-stack e-commerce platform with separate admin and user frontends, and a Node.js backend. It allows users to browse products, add items to cart, place orders, and admins to manage products and orders.
 
@@ -7,7 +17,11 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
 
 - `admin/` — Admin dashboard (React + Vite)
 - `frontend/` — User-facing storefront (React + Vite)
+<<<<<<< HEAD
 - `backend/` — Node.js/Express REST API server
+=======
+- `backend/` — Node.js/Express REST API server.
+>>>>>>> 4aeb5b97cbde84cec8de664943aadefae310a4f4
 
 ## Features
 
@@ -66,6 +80,7 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
    ```
 
 ## Usage
+<<<<<<< HEAD
 - Access deployed user site: [One-Cart (frontend)](https://one-cart-3.onrender.com/)
 - Access deployed admin dashboard: [One-Cart (admin)](https://one-cart-5.onrender.com/)
 - Access deployed backend API: [One-Cart (backend)](https://one-cart-1cvg.onrender.com/)
@@ -74,6 +89,11 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
    - User site: `http://localhost:3000` (default Vite port)
    - Admin dashboard: `http://localhost:5173` (default Vite port)
    - Backend API: `http://localhost:5000`
+=======
+- Access user site at `http://localhost:3000` (default Vite port)
+- Access admin dashboard at `http://localhost:5173` (default Vite port)
+- Backend API runs at `http://localhost:5000`
+>>>>>>> 4aeb5b97cbde84cec8de664943aadefae310a4f4
 
 ## Technologies Used
 - React, Vite
@@ -86,7 +106,12 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
 MIT License
 
 ---
+<<<<<<< HEAD
 Feel free to contribute or open issues for improvements!
 =======
 One-Cart E-commerce web app
 >>>>>>> d83e24aa01405e29a7b82c168be64dcd9520e9c3
+=======
+=======
+
+>>>>>>> 4aeb5b97cbde84cec8de664943aadefae310a4f4
