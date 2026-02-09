@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OneCart
 
 OneCart is a full-stack e-commerce platform with separate admin and user frontends, and a Node.js backend. It allows users to browse products, add items to cart, place orders, and admins to manage products and orders.
@@ -65,9 +66,14 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
    ```
 
 ## Usage
-- Access user site at `http://localhost:3000` (default Vite port)
-- Access admin dashboard at `http://localhost:5173` (default Vite port)
-- Backend API runs at `http://localhost:5000`
+- Access deployed user site: [One-Cart (frontend)](https://one-cart-3.onrender.com/)
+- Access deployed admin dashboard: [One-Cart (admin)](https://one-cart-5.onrender.com/)
+- Access deployed backend API: [One-Cart (backend)](https://one-cart-1cvg.onrender.com/)
+
+- For local development:
+   - User site: `http://localhost:3000` (default Vite port)
+   - Admin dashboard: `http://localhost:5173` (default Vite port)
+   - Backend API: `http://localhost:5000`
 
 ## Technologies Used
 - React, Vite
@@ -81,3 +87,6 @@ MIT License
 
 ---
 Feel free to contribute or open issues for improvements!
+=======
+One-Cart E-commerce web app
+>>>>>>> d83e24aa01405e29a7b82c168be64dcd9520e9c3
