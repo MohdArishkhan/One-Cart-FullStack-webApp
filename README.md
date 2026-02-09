@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7543ba6 (Merge branch 'main' of https://github.com/MohdArishkhan/One-Cart)
 # OneCart
 =======
 # OneCart
@@ -81,6 +84,7 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
 
 ## Usage
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Access deployed user site: [One-Cart (frontend)](https://one-cart-3.onrender.com/)
 - Access deployed admin dashboard: [One-Cart (admin)](https://one-cart-5.onrender.com/)
 - Access deployed backend API: [One-Cart (backend)](https://one-cart-1cvg.onrender.com/)
@@ -94,6 +98,11 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
 - Access admin dashboard at `http://localhost:5173` (default Vite port)
 - Backend API runs at `http://localhost:5000`
 >>>>>>> 4aeb5b97cbde84cec8de664943aadefae310a4f4
+=======
+- Access user site at `http://localhost:3000` (default Vite port)
+- Access admin dashboard at `http://localhost:5173` (default Vite port)
+- Backend API runs at `http://localhost:5000`
+>>>>>>> parent of 7543ba6 (Merge branch 'main' of https://github.com/MohdArishkhan/One-Cart)
 
 ## Technologies Used
 - React, Vite
@@ -107,6 +116,7 @@ MIT License
 
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 Feel free to contribute or open issues for improvements!
 =======
 One-Cart E-commerce web app
@@ -115,3 +125,6 @@ One-Cart E-commerce web app
 =======
 
 >>>>>>> 4aeb5b97cbde84cec8de664943aadefae310a4f4
+=======
+Feel free to contribute or open issues for improvements!
+>>>>>>> parent of 7543ba6 (Merge branch 'main' of https://github.com/MohdArishkhan/One-Cart)
