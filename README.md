@@ -86,6 +86,5 @@ OneCart is a full-stack e-commerce platform with separate admin and user fronten
 MIT License
 
 ---
-Feel free to contribute or open issues for improvements!
 =======
 
